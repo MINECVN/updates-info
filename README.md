@@ -28,6 +28,7 @@ Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến h�
 * Có thể đổi Point miễn phí ở */warp doipointfree* [Đã fix giá trao đổi].
 (Phía Towny thì không có tính năng này nhé).
 * Chỉnh sửa drop khu Envoy.
+* Xoá lịch sử đang bán đồ trong */ah*
 
 ## Towny [001] - SYNC
 Cập nhật lần cuối: *20/06/2021 - Mã số: **001***
