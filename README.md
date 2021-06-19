@@ -1,7 +1,8 @@
+
 # Danh Sách Update MINECVN.COM
 
 > Đây là website ghi rõ các cập nhật chi tiết nhất. Có thời gian đầy đủ nên người chơi hãy thường xuyên vào đây để kiểm tra nhé. 
-> https://minecvn.github.io/updates-info/
+> [https://minecvn.github.io/updates-info/](https://minecvn.github.io/updates-info/)
 
 ## Chú thích
 
