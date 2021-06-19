@@ -39,3 +39,4 @@ Cập nhật lần cuối: *20/06/2021 - Mã số: **002***
 * Bổ sung thêm một loại *AntiCheat* mới, tự động kick người chơi nếu phát hiện vấn đề. Vậy là server sẽ có 2 loại AntiCheat chạy song hành.
 * Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
 * Reset đảo, minion.
+* Kiểm tra tắt bay ở khu vực pvp.
