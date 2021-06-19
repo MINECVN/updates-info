@@ -18,9 +18,9 @@ Cập nhật lần cuối: *20/06/2021 - Mã số: **001***
 * Một rương thần bí mới: "*Điều Ước Từ Vũ Trụ*"
 Chắc chắn nhận được 1 trong các loại đá từ level *1->10* với tỉ lệ khác nhau.
 Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến hành mở rương.
-* Reset tổng thể bao gồm: kho đồ, dữ liệu, thế giới, towny, token, vault.
+* Reset tổng thể bao gồm: kho đồ, dữ liệu, thế giới, towny, token, vault, atm.
+* ATM sẽ không còn cho phép clone để lấy tiền nhiều. Đồng thời cũng chỉnh sửa số lượng tiền khi online.
 * Sẽ hoàn đồ *Point* lại cho những ai đã báo mình trước ngày *20/6/2021*.
-* Reset cả cái *atm*.
 * Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
 * Loại bỏ plugin *trang trí* vì nó gây ***lag***.
 * Cập nhật plugin */skill* [Beta 1.0.8 -> Alpha 1.6.8].
