@@ -19,12 +19,14 @@ Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
  * Sửa lỗi "*Rương Cho Và Lấy*" không hoạt động ở gần khu */spawn*.
  * Thay đổi cơ chế "*nhắc người khác trong khung chat*", loại bỏ tính năng cho xem *[inv]*.
  * Cập nhật hình thức cách kiếm "*Nước Mắt*" để Rương "*Điều Ước Từ Vũ Trụ*" bao gồm:
- 1)  Đánh *BOSS THẾ GIỚI* tại */warp bosstg* sau đó đi trade NPC gần khu vực đó.
- 2) Sử dụng "*Nguyên Thạch Point*" để trao đổi "*Nước Mắt*", có thể tìm thấy "*Nguyên Thạch Point*" tại */warp doipointfree*. Yêu cầu cày cuốc mới có thể nhận được.
- 
+> Đánh *BOSS THẾ GIỚI* tại */warp bosstg* sau đó đi trade NPC gần khu vực đó.
+
+> Sử dụng "*Nguyên Thạch Point*" để trao đổi "*Nước Mắt*", có thể tìm thấy "*Nguyên Thạch Point*" tại */warp doipointfree*.
+Yêu cầu cày cuốc mới có thể nhận được.
+
+ > Nạp thẻ mua vật phẩm "*50 Xu*"  để có thể đổi được tại */warp crate*.
 <center><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://minecvn.com/img/gif/ruong.gif"></center>
 
- 3) Nạp thẻ mua vật phẩm "*50 Xu*"  để có thể đổi được tại */warp crate*.
  * Đã bật keepInventory tất cả world.
  * Không cho phép world the end tạo towny, và các world khác cũng vậy ngoại trừ khu vực Survival và nether.
  * Bảng top nation/towny đã có thể xem tại gần khu */warp crate*.
