@@ -21,6 +21,7 @@ Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
  * Sửa lỗi "*Rương Cho Và Lấy*" không hoạt động ở gần khu */spawn*.
  * Thay đổi cơ chế "*nhắc người khác trong khung chat*", loại bỏ tính năng cho xem *[inv]*.
  * Cập nhật hình thức cách kiếm "*Nước Mắt*" để Rương "*Điều Ước Từ Vũ Trụ*" bao gồm:
+
 > Đánh *BOSS THẾ GIỚI* tại */warp bosstg* sau đó đi trade NPC gần khu vực đó.
 
 > Sử dụng "*Nguyên Thạch Point*" để trao đổi "*Nước Mắt*", có thể tìm thấy "*Nguyên Thạch Point*" tại */warp doipointfree*.
