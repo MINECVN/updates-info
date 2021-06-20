@@ -6,14 +6,36 @@
 
 ## Chú thích
 
-* ***STABLE***: Server chạy ổn định.
-* ***BETA***: Server chạy thử nghiệm.
+* ***STABLE***: Server đang chạy ổn định.
+* ***BETA***: Server đang chạy thử nghiệm. 
 * ***SYNC***: Đồng bộ với mã số cập nhật, tức là sẽ giống nhau.
-* Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
+* ***PBE***: Được thông báo trước các cập nhật sẽ xảy ra, nhưng chưa được thực hiện vì *STAFF* bận.
+* ***PBE SYNC***: Được thông báo trước các cập nhật sẽ xảy ra, sẽ được cùng cập nhật với mã số.
 
-## Towny Free [001] - STABLE
-Cập nhật lần cuối: *20/06/2021 - Mã số: **001***
+> Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
+
+## Towny Free [0.0.2] - STABLE
+Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
+ * Sửa lỗi "*Rương Cho Và Lấy*" không hoạt động ở gần khu */spawn*.
+ * Thay đổi cơ chế "*nhắc người khác trong khung chat*", loại bỏ tính năng cho xem *[inv]*.
+ * Cập nhật hình thức cách kiếm "*Nước Mắt*" để Rương "*Điều Ước Từ Vũ Trụ*" bao gồm:
+ 1)  Đánh *BOSS THẾ GIỚI* tại */warp bosstg* sau đó đi trade NPC gần khu vực đó.
+ 2) Sử dụng "*Nguyên Thạch Point*" để trao đổi "*Nước Mắt*", có thể tìm thấy "*Nguyên Thạch Point*" tại */warp doipointfree*. Yêu cầu cày cuốc mới có thể nhận được.
+ 
+<center><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://minecvn.com/img/gif/ruong.gif"></center>
+
+ 3) Nạp thẻ mua vật phẩm "*50 Xu*"  để có thể đổi được tại */warp crate*.
+ * Đã bật keepInventory tất cả world.
+ * Không cho phép world the end tạo towny, và các world khác cũng vậy ngoại trừ khu vực Survival và nether.
+ * Bảng top nation/towny đã có thể xem tại gần khu */warp crate*.
+ * Hiển thị 6 vật phẩm đang được đấu giá tại gần khu thức ăn miễn phí tại spawn.
+
+> Dưới đây là các cập nhật cũ - Mã số: **0.0.1**
+
 * Sửa đổi plugin */e* sao cho đồng bộ với các lối chơi.
+
+<center><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://minecvn.com/img/gif/ae.gif"></center>
+
 * Sửa đổi *Nâng Cấp Vật Phẩm*, thêm đá nâng cấp level *4->10*.
 Đồng thời tùy chỉnh rate khi nâng cấp.
 * Đá nâng cấp level *4->10* sẽ không xuất hiện trong *cửa hàng*.
@@ -32,12 +54,12 @@ Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến h�
 * Chỉnh sửa drop khu Envoy.
 * Xoá lịch sử đang bán đồ trong */ah*
 
-## Towny [001] - SYNC
-Cập nhật lần cuối: *20/06/2021 - Mã số: **001***
+## Towny [0.0.2] - PBE SYNC
+Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
 * ~~Có thể đổi Point miễn phí ở */warp doipointfree*~~
 
-## SkyFree [002] - STABLE
-Cập nhật lần cuối: *20/06/2021 - Mã số: **002***
+## SkyFree [0.0.1] - PBE 
+Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.1***
 * Bổ sung thêm một loại *AntiCheat* mới, tự động kick người chơi nếu phát hiện vấn đề. Vậy là server sẽ có 2 loại AntiCheat chạy song hành.
 * Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
 * Reset đảo, minion.
