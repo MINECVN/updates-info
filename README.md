@@ -4,7 +4,9 @@
 > Đây là website ghi rõ các cập nhật chi tiết nhất. Có thời gian đầy đủ nên người chơi hãy thường xuyên vào đây để kiểm tra nhé. 
 > [https://minecvn.github.io/updates-info/](https://minecvn.github.io/updates-info/)
 
-## Chú thích
+![GitHub last commit](https://img.shields.io/github/last-commit/MINECVN/updates-info?style=flat-square)
+
+## CHÚ THÍCH
 
 * ***STABLE***: Server đang chạy ổn định.
 * ***BETA***: Server đang chạy thử nghiệm. 
