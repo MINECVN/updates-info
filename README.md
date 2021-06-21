@@ -13,10 +13,31 @@
 * ***SYNC***: Đồng bộ với mã số cập nhật, tức là sẽ giống nhau.
 * ***PBE***: Được thông báo trước các cập nhật sẽ xảy ra, nhưng chưa được thực hiện vì *STAFF* bận.
 * ***PBE SYNC***: Được thông báo trước các cập nhật sẽ xảy ra, sẽ được cùng cập nhật với mã số.
+* ***OLD***: Bản cập nhật đã cũ.
 
 > Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
 
-## Towny Free [0.0.2] - STABLE
+## Towny [0.0.3] - PBE SYNC
+Cập nhật lần cuối: *21/06/2021 - Mã số: **0.0.3**
+* Bản cập nhật **0.0.2** đã được tích hợp vào đây.
+* Thay đổi cơ chế thông báo.
+* Sửa đổi & Cập nhật AntiCheat mới.
+* Bổ sung thanh bar trên cùng.
+* Thêm tính năng mới: *Máy tạo*, có shop.
+
+## Towny Free [0.0.3] - STABLE
+Cập nhật lần cuối: *21/06/2021 - Mã số: **0.0.3***
+* Sửa đổi & Cập nhật AntiCheat mới.
+* Bổ sung NPC *Chuyển Sinh Cấp* tại */spawn*.
+
+## SkyFree [0.0.1] - PBE 
+Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.1***
+* Bổ sung thêm một loại *AntiCheat* mới, tự động kick người chơi nếu phát hiện vấn đề. Vậy là server sẽ có 2 loại AntiCheat chạy song hành.
+* Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
+* Reset đảo, minion.
+* Kiểm tra tắt bay ở khu vực pvp.
+
+## Towny Free [0.0.2] - OLD
 Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
  * Sửa lỗi "*Rương Cho Và Lấy*" không hoạt động ở gần khu */spawn*.
  * Thay đổi cơ chế "*nhắc người khác trong khung chat*", loại bỏ tính năng cho xem *[inv]*.
@@ -57,15 +78,4 @@ Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến h�
 * Có thể đổi Point miễn phí ở */warp doipointfree* [Đã fix giá trao đổi].
 (Phía Towny thì không có tính năng này nhé).
 * Chỉnh sửa drop khu Envoy.
-* Xoá lịch sử đang bán đồ trong */ah*
-
-## Towny [0.0.2] - PBE SYNC
-Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
-* ~~Có thể đổi Point miễn phí ở */warp doipointfree*~~
-
-## SkyFree [0.0.1] - PBE 
-Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.1***
-* Bổ sung thêm một loại *AntiCheat* mới, tự động kick người chơi nếu phát hiện vấn đề. Vậy là server sẽ có 2 loại AntiCheat chạy song hành.
-* Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
-* Reset đảo, minion.
-* Kiểm tra tắt bay ở khu vực pvp.
+* Xoá lịch sử đang bán đồ trong */ah*.
