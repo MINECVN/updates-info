@@ -17,28 +17,21 @@
 
 > Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
 
-## Towny [0.0.3] - PBE SYNC
-Cập nhật lần cuối: *21/06/2021 - Mã số: **0.0.3**
-* Bản cập nhật **0.0.2** đã được tích hợp vào đây.
-* Thay đổi cơ chế thông báo.
-* Sửa đổi & Cập nhật AntiCheat mới.
-* Bổ sung thanh bar trên cùng.
-* Thêm tính năng mới: *Máy tạo*, có shop.
 
-## Towny Free [0.0.3] - STABLE
-Cập nhật lần cuối: *21/06/2021 - Mã số: **0.0.3***
+## Towny Free [0.0.4] - STABLE
+
+> Cập nhật lần cuối: 22/06/2021 - Mã số: 0.0.4
+
+* "/l" (cho đến khi nó thành "general") thì sẽ fix được lỗi chat không hiển thị.
+* "/mention toggle" để bật/tắt tag trong khung chat.
+
+> Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
+
 * Sửa đổi & Cập nhật AntiCheat mới.
 * Bổ sung NPC *Chuyển Sinh Cấp* tại */spawn*.
 
-## SkyFree [0.0.1] - PBE 
-Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.1***
-* Bổ sung thêm một loại *AntiCheat* mới, tự động kick người chơi nếu phát hiện vấn đề. Vậy là server sẽ có 2 loại AntiCheat chạy song hành.
-* Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
-* Reset đảo, minion.
-* Kiểm tra tắt bay ở khu vực pvp.
+> Cập nhật lần cuối: 20/06/2021 - Mã số: 0.0.2
 
-## Towny Free [0.0.2] - OLD
-Cập nhật lần cuối: *20/06/2021 - Mã số: **0.0.2***
  * Sửa lỗi "*Rương Cho Và Lấy*" không hoạt động ở gần khu */spawn*.
  * Thay đổi cơ chế "*nhắc người khác trong khung chat*", loại bỏ tính năng cho xem *[inv]*.
  * Cập nhật hình thức cách kiếm "*Nước Mắt*" để Rương "*Điều Ước Từ Vũ Trụ*" bao gồm:
@@ -79,3 +72,22 @@ Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến h�
 (Phía Towny thì không có tính năng này nhé).
 * Chỉnh sửa drop khu Envoy.
 * Xoá lịch sử đang bán đồ trong */ah*.
+
+## Towny [0.0.3] - PBE SYNC
+
+> Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
+
+* Bản cập nhật **0.0.2** đã được tích hợp vào đây.
+* Thay đổi cơ chế thông báo.
+* Sửa đổi & Cập nhật AntiCheat mới.
+* Bổ sung thanh bar trên cùng.
+* Thêm tính năng mới: *Máy tạo*, có shop.
+
+## SkyFree [0.0.1] - PBE 
+
+> Cập nhật lần cuối: 20/06/2021 - Mã số: 0.0.1
+
+* Sửa đổi & Cập nhật AntiCheat mới.
+* Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
+* Reset đảo, minion.
+* Kiểm tra tắt bay ở khu vực pvp.
