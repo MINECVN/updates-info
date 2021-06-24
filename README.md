@@ -13,17 +13,32 @@
 * ***SYNC***: Đồng bộ với mã số cập nhật, tức là sẽ giống nhau.
 * ***PBE***: Được thông báo trước các cập nhật sẽ xảy ra, nhưng chưa được thực hiện vì *STAFF* bận.
 * ***PBE SYNC***: Được thông báo trước các cập nhật sẽ xảy ra, sẽ được cùng cập nhật với mã số.
-* ***OLD***: Bản cập nhật đã cũ.
 
 > Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
 
+## Toàn bộ máy chủ: [0.0.1] - STABLE
+> Cập nhật lần cuối: 24/06/2021 - Mã số: 0.0.1
+* Về lại bản AntiCheat cũ.
+
+## Towny [0.0.4] - PBE
+> Cập nhật lần cuối: 22/06/2021 - Mã số: 0.0.4
+
+* Thêm shop spawner.
+
+> Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
+
+* Bản cập nhật **0.0.2** đã được tích hợp vào đây.
+* Thay đổi cơ chế thông báo.
+* Bổ sung thanh bar trên cùng.
+* Thêm tính năng mới: *Máy tạo*, có shop.
 
 ## Towny Free [0.0.4] - STABLE
 
-> Cập nhật lần cuối: 22/06/2021 - Mã số: 0.0.4
+> Cập nhật lần cuối: 23/06/2021 - Mã số: 0.0.4
 
 * "/l" (cho đến khi nó thành "general") thì sẽ fix được lỗi chat không hiển thị.
 * "/mention toggle" để bật/tắt tag trong khung chat.
+* Fix lỗi /ae mua đồ free (money).
 
 > Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
 
@@ -73,21 +88,11 @@ Có thể sử dụng *Point* hoặc *Money* để mua chìa khóa và tiến h�
 * Chỉnh sửa drop khu Envoy.
 * Xoá lịch sử đang bán đồ trong */ah*.
 
-## Towny [0.0.3] - PBE SYNC
-
-> Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
-
-* Bản cập nhật **0.0.2** đã được tích hợp vào đây.
-* Thay đổi cơ chế thông báo.
-* Sửa đổi & Cập nhật AntiCheat mới.
-* Bổ sung thanh bar trên cùng.
-* Thêm tính năng mới: *Máy tạo*, có shop.
-
 ## SkyFree [0.0.1] - PBE 
 
 > Cập nhật lần cuối: 20/06/2021 - Mã số: 0.0.1
 
 * Sửa đổi & Cập nhật AntiCheat mới.
-* Trao giải top, nếu có sử dụng hack sẽ giảm Point 50%.
+* Trao giải top, nếu có sử dụng hack sẽ giảm Point 99%.
 * Reset đảo, minion.
 * Kiểm tra tắt bay ở khu vực pvp.
