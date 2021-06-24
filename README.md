@@ -18,6 +18,7 @@
 
 ## Toàn bộ máy chủ: [0.0.1] - STABLE
 > Cập nhật lần cuối: 24/06/2021 - Mã số: 0.0.1
+
 * Về lại bản AntiCheat cũ.
 
 ## Towny [0.0.4] - PBE
