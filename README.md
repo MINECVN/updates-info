@@ -18,11 +18,11 @@
 > Bất cứ thứ gì không được nhắc đến ở phần "***RESET***" sẽ không bị reset.
 
 ## Toàn bộ máy chủ: [0.0.1] - STABLE
-> Cập nhật lần cuối: 30/06/2021 - Mã số: 0.0.1
+> Cập nhật lần cuối: 24/06/2021 - Mã số: 0.0.1
 
 * Về lại bản AntiCheat cũ.
 
-## Towny [0.0.4] - PBE
+## Towny [0.0.3] - STABLE
 > Cập nhật lần cuối: 21/06/2021 - Mã số: 0.0.3
 
 * Bản cập nhật **0.0.2** đã được tích hợp vào đây.
